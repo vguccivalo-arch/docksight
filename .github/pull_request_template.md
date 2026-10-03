@@ -16,6 +16,8 @@
 - [ ] `apps/server` (NestJS)
 - [ ] `apps/web` (React / Vite)
 - [ ] `apps/agent` (Go)
+- [ ] `apps/cli` (Go)
+- [ ] `packages/protocol` (shared WebSocket contracts)
 - [ ] `packages/protocol` (shared WebSocket contracts)
 - [ ] `infrastructure` / `.github/workflows`
 - [ ] `docs`
